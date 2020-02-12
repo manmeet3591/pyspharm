@@ -1,0 +1,1235 @@
+beginning test suite for 
+---
+*** ./time_SHT 2047 -mres=15 -quickinit -iter=1 -vector *** 
+---
+*** ./time_SHT 7975 -mres=145 -quickinit -iter=1 -vector *** 
+---
+*** ./time_SHT 2047 -mres=15 -quickinit -iter=1 -nth=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -quickinit  -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -quickinit  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -quickinit  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -quickinit  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -quickinit  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -quickinit  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -quickinit  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -quickinit  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -quickinit  -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -gauss  -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -gauss  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -gauss  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -gauss  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -gauss  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -gauss  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -gauss  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -gauss  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -gauss  -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -reg  -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -reg  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -reg  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -reg  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -reg  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -reg  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -reg  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -reg  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -reg  -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -fly  -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -fly  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -fly  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -fly  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -fly  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -fly  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -fly  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -fly  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -fly  -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -gauss -nth=1  -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -gauss -nth=1  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -gauss -nth=1  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -gauss -nth=1  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -gauss -nth=1  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -gauss -nth=1  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -gauss -nth=1  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -gauss -nth=1  -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -gauss -nth=1  -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -quickinit -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -quickinit -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -quickinit -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -quickinit -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -quickinit -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -quickinit -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -quickinit -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -quickinit -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -quickinit -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -gauss -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -gauss -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -gauss -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -gauss -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -gauss -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -gauss -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -gauss -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -gauss -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -gauss -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -reg -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -reg -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -reg -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -reg -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -reg -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -reg -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -reg -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -reg -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -reg -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -fly -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -fly -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -fly -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -fly -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -fly -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -fly -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -fly -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -fly -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -fly -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -gauss -nth=1 -oop -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -gauss -nth=1 -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -gauss -nth=1 -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -gauss -nth=1 -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -gauss -nth=1 -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -gauss -nth=1 -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -gauss -nth=1 -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=44 -gauss -nth=1 -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=46 -gauss -nth=1 -oop -iter=10 -vector *** 
+---
+*** ./time_SHT 1 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 1 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 2 -mmax=2 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 3 -mmax=3 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 4 -mmax=4 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 11 -mmax=11 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 12 -mmax=12 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 13 -mmax=13 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 14 -mmax=14 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 31 -mmax=31 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 32 -mmax=32 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 33 -mmax=33 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 34 -mmax=34 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 121 -mmax=121 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 122 -mmax=122 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 123 -mmax=123 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=0 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=1 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 124 -mmax=124 -quickinit -transpose -iter=1 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=32 -quickinit -transpose -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=34 -quickinit -transpose -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=36 -quickinit -transpose -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=38 -quickinit -transpose -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=40 -quickinit -transpose -iter=10 -vector *** 
+---
+*** ./time_SHT 19 -mmax=10 -nlat=42 -quickinit -transpose -iter=10 -vector *** 
